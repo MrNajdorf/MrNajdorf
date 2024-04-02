@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrNajdorf
 - 👀 I’m interested in Everything CS
-- 🌱 I’m currently learning Dart/Flutter, ReactJS.
+- 🌱 I’m currently learning Rust.
 
 <!---
 MrNajdorf/MrNajdorf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
